@@ -1,6 +1,8 @@
 <div>
 
 <h4>Tech Stack</h4>
+
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
 
 <br />
@@ -14,6 +16,7 @@
 
 <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
 
 <br />
 
